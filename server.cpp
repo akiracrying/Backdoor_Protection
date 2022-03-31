@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <errno.h>
 #include <string.h>
-#include <sys/types.h> // их слишком много 2/3 не нужны вообще
+#include <sys/types.h>
 #include <time.h>
 #include <stdbool.h>
 #include <io.h>
